@@ -1,4 +1,0 @@
-
-This is sample file
-
-Created new branch 'ramu'
