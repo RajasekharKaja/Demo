@@ -40,6 +40,10 @@ public class Program {
 		//updated
 		
 		//end of program
+
+//none
+
+//sample
 		
 	}
 
