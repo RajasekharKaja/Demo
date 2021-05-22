@@ -37,8 +37,6 @@ public class Program {
 			System.out.println("User login testcase is Failed");
 		}
 		
-		//System.out.println("User login test is passed : " +  cust1.performUserLogin("jhgjghk", "123"));
-		
 	}
 
 }
