@@ -5,7 +5,6 @@ public class ArraySample {
 	
 	public static void main(String[] areg) {
 		
-		
 		Scanner scan1 = new Scanner(System.in);
 		System.out.println("Enter no. of users");
 		int userCount = scan1.nextInt();

@@ -46,9 +46,6 @@ public class StringSample {
 		
 		String cartAmount = "$90.00";
 		 System.out.println(cartAmount.substring(1,2));
-		
-		
-		
 	}
 
 }
