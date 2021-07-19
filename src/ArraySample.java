@@ -11,13 +11,6 @@ public class ArraySample {
 		int userCount = scan1.nextInt();
 		
 		String[] users = new String[userCount];
-		//int[] sno = new int[10];
-		
-//		users[0] = "Mobin";
-//		users[1] = "kranthi";
-//		users[2] = "Ramya";
-//		users[3] = "Priyanka";
-//		users[4] = "Pradeep";
 		
 		System.out.println("Enter "+userCount+" user name");
 		Scanner scan = new Scanner(System.in);
@@ -38,3 +31,4 @@ public class ArraySample {
 	}
 
 }
+ 
