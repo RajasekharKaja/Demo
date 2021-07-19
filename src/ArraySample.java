@@ -27,6 +27,7 @@ public class ArraySample {
 		}
 		
 		//print program status
+		
 		System.out.println("AAA user record is repeated " + userRepeat);
 	}
 	
