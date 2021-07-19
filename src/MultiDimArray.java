@@ -3,6 +3,10 @@ import java.util.Scanner;
 public class MultiDimArray {
 	
 	public static void main(String[] ars) {
+		//1
+		//2
+		//3
+		//4
 		
 		String[][] users = new String[3][2];
 		
