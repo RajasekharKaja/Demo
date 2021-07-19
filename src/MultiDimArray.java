@@ -29,6 +29,7 @@ public class MultiDimArray {
 			    System.out.print( "  " +users[row][col]);
 			}	
 			System.out.println("Program completed");
+			//end of program
 		}	
    }
 
