@@ -6,7 +6,7 @@ public class MultiDimArray {
 		//1
 		//2
 		//3
-		//4
+		//4		
 		
 		String[][] users = new String[3][2];
 		
