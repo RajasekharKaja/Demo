@@ -47,4 +47,10 @@ public class BasePage {
 		dropdown.deselectByVisibleText(optionTitle);
 	}
 
+	
+	public void selectMenuOption(String menuTitle, String option) {
+		getElement(By.xpath("//a[text()='"+menuTitle+"']")).click();
+		getElement(By.xpath("//a[text()='"+option+"']")).click();
+	}
+	
 }
